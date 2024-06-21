@@ -1,6 +1,3 @@
-Sure, here is a README.md style documentation for the GSM4G Motor Starter:
-
-```markdown
 # GSM4G Motor Starter
 
 ## Overview
@@ -69,7 +66,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.
 
----
-
-_Note: Replace placeholders like [Specify voltage range], [Specify power rating], etc., with the actual values specific to your device._
-```
