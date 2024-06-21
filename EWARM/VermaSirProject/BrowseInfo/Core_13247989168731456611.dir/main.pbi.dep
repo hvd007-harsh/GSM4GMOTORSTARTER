@@ -1,0 +1,53 @@
+D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\VermaSirProject\BrowseInfo\Core_13247989168731456611.dir\main.pbi: \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\Core\Src\main.c \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Core\Inc\variables.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Core\Inc\main.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Core\Inc\stm32f0xx_hal_conf.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_rcc.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_def.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f030x6.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\CMSIS\Include\core_cm0.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Product.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\aarch32\iccarm_builtin.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stddef.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\ysizet.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_rcc_ex.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_gpio.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_gpio_ex.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_exti.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_dma.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_dma_ex.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_cortex.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_adc.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_adc_ex.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_flash.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_flash_ex.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_i2c.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_i2c_ex.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_pwr.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_pwr_ex.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_tim.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_tim_ex.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_uart.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_uart_ex.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Core\Inc\adc.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Core\Inc\tim.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Core\Inc\usart.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Core\Inc\gpio.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Core\Inc\flash.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Core\Inc\variables.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Core\Src\MC66_GSM\Inc\mc66gsm_prm.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Core\Src\GSMTraffic\Inc\AppsGsmTraffic_prm.h \
+  D:\EMBEDDED\FreelancingProject\EWARM_VERMAJI\EWARM\..\Core\Src\AppsTimers\Inc\AppsTimer_prm.h
